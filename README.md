@@ -1,1 +1,1 @@
-# Ak-HD-akram
+# Ak-HD-akram: Video Translation Extension Project\n\nThis repository contains the comprehensive planning and architectural documentation for the advanced AI-powered video translation browser extension.\n\n### Documentation Structure\n\nAll project documentation is located in the  directory, categorized into subfolders like , , etc.
